@@ -49,3 +49,8 @@ This project is licensed under the [MIT License](LICENSE).
 - [Scottokeebs](https://discord.gg/bz4k3PFueG)
 
 ## News & Blogs
+
+## Vendors / Manufacturers
+
+* [AllwinKey](https://allwinkey.com) — Custom keyboard & keycap OEM/ODM manufacturer
+* [Allwin Factory](https://allwinfactory.com) — Keyboard & keycap factory, 600+ products
